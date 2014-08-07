@@ -1,6 +1,6 @@
 ### Safran PHP CLI
 
-(Safran.io)[http://safran.io] için PHP ile yazılmış Command Line okuyucusu.
+[Safran.io](http://safran.io) için PHP ile yazılmış Command Line okuyucusu.
 
 
 #### Kurulum
