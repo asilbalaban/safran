@@ -1,6 +1,5 @@
 #!/usr/bin/php
 <?php
-@header("Content-Type: text; charset=utf-8");
 $feed  = 'http://www.safran.io/feed.rss';
 $data = simplexml_load_file($feed);
 $items = array_slice($data->channel->item,0,10);
